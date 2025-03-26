@@ -125,3 +125,12 @@ th{
 .p1{
     font-size: medium; font-weight: lighter;
 }
+.but {
+    margin: 50px 120px;
+    border-radius: 6px;
+    width: 70px;
+    
+}
+input{
+    border-radius: 6px;
+}
